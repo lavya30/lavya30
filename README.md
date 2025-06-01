@@ -1,9 +1,9 @@
 # Hey! 👋, I'm Lavya Goel
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://your-portfolio.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavayagoel2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/lavya-goel-173a26295/))
+<!---[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://your-portfolio.com)
+--->
 ---
 
 - 🎓 **Currently**: B.Tech CSE student at [Your University]
