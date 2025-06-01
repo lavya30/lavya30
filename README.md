@@ -6,10 +6,10 @@
 --->
 ---
 
-- 🎓 **Currently**: B.Tech CSE student at [Your University]
-- 📚 **Learning**: Machine Learning, Cybersecurity
+- 🎓 **Currently**: B.Tech CSE student at Pillai Hoc college of engineering and technology
+- 📚 **Learning**: Machine Learning 
 - 💻 **Experience**: Working on personal & open-source projects
-- ⚽ **Outside Tech**: I enjoy football, running, and reading sci-fi
+- ⚽ **Outside Tech**: I enjoy football, running, and reading books
 
 > *"The future belongs to those who prepare for it today."* – Malcolm X
 
