@@ -1,0 +1,19 @@
+# Hey! 👋, I'm Lavya Goel
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://your-portfolio.com)
+
+---
+
+- 🎓 **Currently**: B.Tech CSE student at [Your University]
+- 📚 **Learning**: Machine Learning, Cybersecurity
+- 💻 **Experience**: Working on personal & open-source projects
+- ⚽ **Outside Tech**: I enjoy football, running, and reading sci-fi
+
+> *"The future belongs to those who prepare for it today."* – Malcolm X
+
+<!---
+lavya30/lavya30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
