@@ -2,6 +2,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavayagoel2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/lavya-goel-173a26295/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lavya.goel/)
+
 <!---[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://your-portfolio.com)
 --->
 ---
