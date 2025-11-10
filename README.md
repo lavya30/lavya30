@@ -4,7 +4,7 @@
 - 💻 **Experience**: Working on personal & open-source projects
 - ⚽ **Outside Tech**: I enjoy badminton, running, and reading books
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lavya.goel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavya-goel-173a26295/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lavya-goel) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lavayagoel2006@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lavya.goel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavya-goel-173a26295/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lavya-goel) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lavayagoel2006@gmail.com) [![](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LavyaG12728)
 ## ☕ Support Me:
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/lavayagoel)
 # 💻 Tech Stack:
