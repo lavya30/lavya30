@@ -1,6 +1,6 @@
 # 🌊 Welcome to My Digital Workspace
 
-<div align="center">
+<div align="center"> 
   
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Lavya+Goel;A+Straw+Hat+Coder+%E2%9A%93;ML+Enthusiast+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
