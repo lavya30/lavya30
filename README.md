@@ -23,6 +23,8 @@ const lavya = {
     funFact: "I debug code faster than I solve real-life problems 😄"
 };
 ```
+### Discord Pressence
+[![Discord Presence](https://lanyard.cnrad.dev/api/1033321142150246450?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/1033321142150246450)
 
 <details>
 <summary>📖 More About My Journey</summary>
